@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Usage Instructions](#Usage)
+- [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
 - [Creator](#Creators)
 - [References](#References)
