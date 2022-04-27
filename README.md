@@ -4,6 +4,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
+- [Usage Instructions](#Usage)
 - [Contributing](#contributing)
 - [Creator](#Creators)
 - [References](#References)
@@ -16,6 +17,8 @@ This repository contains the pipeline for Transfer Patterns Algorithm. Sweden's 
 
 
 
+### Usage Instructions
+Sample data for Sweden can be accessed using the following [drive link](https://drive.google.com/drive/folders/1RTqx_MxcKetXWlTGYNWFrk46ZnpmRTks?usp=sharing). Downlaod and place the gdrive folder in main directory and run main.py. 
 
 ### Contributing
 We welcome all suggestions from the community. If you wish to contribute or report any bug please contact the creaters or create an issue on [issue tracking system](https://github.com/transnetlab/transit-routing/issues).
