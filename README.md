@@ -11,7 +11,7 @@
 - [Copyright and license](#Copyright-and-license)
 
 ### Introduction 
-This repository contains the pipeline for Transfer Patterns Algorithm. Sweden's public transit network has been provided as a test case. The figure below shows the transit stop location. The pipleline uses Spark Streaming Platform to model realtime environment.One-To-Many rTBTR algorithm has been used for preprocessing transfer patterns.
+This repository contains the pipeline for Transfer Patterns Algorithm. Sweden's public transit network has been provided as a test case. The figure below shows the transit stop location. The pipleline uses Spark Streaming Platform to model realtime environment.One-To-Many rTBTR algorithm has been used for preprocessing transfer patterns. Project Report and slides can be found at [drive link](https://drive.google.com/drive/folders/1RTqx_MxcKetXWlTGYNWFrk46ZnpmRTks?usp=sharing)
 
 ![plot](sweden.jpg)
 
