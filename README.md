@@ -12,6 +12,10 @@
 
 ### Introduction 
 This repository contains the pipeline for Transfer Patterns Algorithm. Sweden's public transit network has been provided as a test case. The figure below shows the transit stop location. The pipleline uses Spark Streaming Platform to model realtime environment.One-To-Many rTBTR algorithm has been used for preprocessing transfer patterns. Project Report and slides can be found at [drive link](https://drive.google.com/drive/folders/1RTqx_MxcKetXWlTGYNWFrk46ZnpmRTks?usp=sharing)
+- Following files are included:
+    - query_code.py: Performs the bicriteria query using spark streaming 
+    - function.py: Contains the functions 
+    - preprocessing_code.py: Contains the code to preprocess and generate the DAG 
 
 ![plot](sweden.jpg)
 
