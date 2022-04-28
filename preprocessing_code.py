@@ -1,6 +1,4 @@
-"""
-measure TBTR call
-"""
+
 from time import time
 from miscellaneous_func import *
 from transferpattern.transferpattern_func import *
